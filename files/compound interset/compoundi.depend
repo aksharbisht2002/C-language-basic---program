@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1609942756 source:a:\c++programs\compoundi\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1609944864 source:a:\c++programs\areatriangle\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

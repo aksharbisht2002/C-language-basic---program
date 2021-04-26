@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1609863436 source:a:\c++programs\swaptemp\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1609863436 source:a:\c++programs\aksharbisht02\main.c
+	<stdio.h>
+	<stdlib.h>
+

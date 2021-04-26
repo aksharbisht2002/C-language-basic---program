@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1609950222 source:a:\c++programs\billamount\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1609865123 source:a:\c++programs\swapwithoutthird\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1609865123 source:a:\c++programs\aksharbisht03\main.c
+	<stdio.h>
+	<stdlib.h>
+
